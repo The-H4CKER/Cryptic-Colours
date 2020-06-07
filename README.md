@@ -18,6 +18,6 @@ By [username].
 The challenge involves identifying text hidden in an image, so there are no significant risks.
 
 ## Walkthrough
-The student will identify the RGB values of each of the main colours in the image, either on the VM by using the colour picker on GIMP or online with a site such as https://imagecolorpicker.com/en/.
+The student will identify the RGB values of each of the main colours in the image, either on the VM by using GIMP's colour picker tool or online with a site such as https://imagecolorpicker.com/en/.
 
 Doing this for each of the 7 images in order will generate a list of 21 decimal (or hexadecimal) numbers between 0 (00) and 255 (FF) (inclusive). These, when converted to ASCII, will return the flag.
