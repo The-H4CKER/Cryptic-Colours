@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 from PIL import Image
 
 image = Image.open("img.PNG") #opens image
