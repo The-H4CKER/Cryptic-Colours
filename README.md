@@ -7,7 +7,7 @@ Content Creators Club CTF Challenge
 Flag: R3d_6r3En_81u3
 
 ## Briefing
-Download the files at [url].
+Download the files at https://github.com/The-H4CKER/Cryptic-Colours/blob/master/build/web/img.zip?raw=true.
 
 By [username].
 
