@@ -15,7 +15,7 @@ By [username].
 - Host the download file.
 
 ## Risks
-The challenge involves identifying text hidden in an image, so there are no significant risks.
+The challenge involves identifying text hidden in an image, so there are no significant risks, as far as I can see.
 
 ## Walkthrough
 The student will identify the RGB values of each of the main colours in the image, either on the VM by using GIMP's colour picker tool or online with a site such as https://imagecolorpicker.com/en/.
