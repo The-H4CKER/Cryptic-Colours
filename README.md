@@ -20,6 +20,6 @@ The challenge involves identifying text hidden in an image, so there are no sign
 ## Walkthrough
 The student will identify the RGB values of each of the colours in the image (from left to right), either on the VM by using GIMP's colour picker tool or online with a site such as https://imagecolorpicker.com/en/.
 
-Doing this for each of the 7 images in order will generate a list of 21 decimal (or hexadecimal) numbers between 0 (00) and 255 (FF) (inclusive). The numbers must then be converted from a to ASCII characters which will reveal a message containing the flag.
+Doing this for each of the seven colours, in order, will generate a list of twenty-one decimal (or hexadecimal) numbers between 0 (00) and 255 (FF) (inclusive). The numbers must then be converted from a to ASCII characters which will reveal a message containing the flag.
 
-This whole process can also be automated using a simple Python script (with the Pillow module) to generate the flag. The Pythonscript can be loacted in the src folder.
+This whole process can also be automated using a simple Python script (with the Pillow module) to generate the flag. The Pythonscript can be located in the src folder.
