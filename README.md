@@ -9,7 +9,7 @@ Flag: R3d_6r3En_81u3
 ## Briefing
 Download the image file at https://github.com/The-H4CKER/Cryptic-Colours/blob/master/build/web/img.zip?raw=true (probably use a different link). Decode the message encrypted in the image to reveal the flag.
 
-By [username].
+By AgentNJacob.
 
 ## Infrastructure
 - Host the download file.
